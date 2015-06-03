@@ -1,0 +1,13 @@
+&nbsp;- espaços em brancos nas linhas
+&shy- mostrar a infenização no texto.
+&nome do símbolos especial - se for necessario usar algum símbolo especial, pesquisar!
+<code>e</code> - diz ao navegador que as palavra entre as tags são códigos.
+<pre></pre> - diz ao que navegador para usar os espaços e quebras de linhas do código.
+position: relativo; - posição relativa aonde ele esta(ex.h1,p,h2)
+position: absolut; - posição absoluta relativa a página toda, permitindo você coloca
+em qualquer posição da tela
+
+http://prefixr.com/ - site para criar script em CSS para usar em navegadores
+ mais antigos.
+
+margin - controla as margins da página nessa sequência 'topo,direta,esquerda,baixo'
