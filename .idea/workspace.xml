@@ -41,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testejs02.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testejs02.html">
+      <file leaf-file-name="testejs03.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testejs03.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="7" selection-start="685" selection-end="685" vertical-scroll-proportion="0.64041096" vertical-offset="0" max-vertical-offset="584">
+            <state line="22" column="0" selection-start="632" selection-end="632" vertical-scroll-proportion="0.65499127" vertical-offset="0" max-vertical-offset="571">
               <folding />
             </state>
           </provider>
@@ -64,6 +64,7 @@
         <option value="$PROJECT_DIR$/_css/estilo.css" />
         <option value="$PROJECT_DIR$/_css/testejs.html" />
         <option value="$PROJECT_DIR$/testejs02.html" />
+        <option value="$PROJECT_DIR$/testejs03.html" />
       </list>
     </option>
   </component>
@@ -129,6 +130,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pedro\Documents\git\cursoemvideo-local" />
+    </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.testejs02.html">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -260,13 +266,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_css/testejs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="40" selection-start="191" selection-end="191" vertical-scroll-proportion="0.29109588" vertical-offset="0" max-vertical-offset="584">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_css/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="198" column="0" selection-start="3663" selection-end="3663" vertical-scroll-proportion="-5.08" vertical-offset="3239" max-vertical-offset="4063">
@@ -277,6 +276,13 @@
     <entry file="file://$PROJECT_DIR$/testejs02.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="7" selection-start="685" selection-end="685" vertical-scroll-proportion="0.64041096" vertical-offset="0" max-vertical-offset="584">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testejs03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="632" selection-end="632" vertical-scroll-proportion="0.65499127" vertical-offset="0" max-vertical-offset="571">
           <folding />
         </state>
       </provider>
