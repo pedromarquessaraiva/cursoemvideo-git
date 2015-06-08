@@ -35,16 +35,16 @@
       <file leaf-file-name="fotos.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fotos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="47" selection-start="212" selection-end="212" vertical-scroll-proportion="16.115385" vertical-offset="521" max-vertical-offset="1411">
+            <state line="59" column="0" selection-start="2456" selection-end="2766" vertical-scroll-proportion="-11.269231" vertical-offset="710" max-vertical-offset="1326">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fotos.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_css/fotos.css">
+      <file leaf-file-name="multimidia.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/multimidia.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="1" selection-start="632" selection-end="632" vertical-scroll-proportion="0.6409836" vertical-offset="204" max-vertical-offset="1819">
+            <state line="70" column="41" selection-start="2370" selection-end="2370" vertical-scroll-proportion="0.8809107" vertical-offset="687" max-vertical-offset="1360">
               <folding />
             </state>
           </provider>
@@ -65,7 +65,6 @@
         <option value="$PROJECT_DIR$/testejs03.html" />
         <option value="$PROJECT_DIR$/_javascript/funcoes.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/multimidia.html" />
         <option value="$PROJECT_DIR$/fale-conosco.html" />
         <option value="$PROJECT_DIR$/_css/estilo.css" />
         <option value="$PROJECT_DIR$/google-glass.html" />
@@ -73,6 +72,7 @@
         <option value="$PROJECT_DIR$/specs.html" />
         <option value="$PROJECT_DIR$/fotos.html" />
         <option value="$PROJECT_DIR$/_css/fotos.css" />
+        <option value="$PROJECT_DIR$/multimidia.html" />
       </list>
     </option>
   </component>
@@ -224,11 +224,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -250,6 +250,27 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="13" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="1853">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fotos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="47" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1326">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_css/fotos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="1" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1819">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="32" column="13" selection-start="1344" selection-end="1344" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1853">
           <folding />
         </state>
@@ -264,9 +285,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/google-glass.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="19" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="239" max-vertical-offset="1445">
-          <folding />
-        </state>
+        <state line="14" column="19" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="239" max-vertical-offset="1445" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -285,16 +304,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/google-glass.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="19" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1445">
-          <folding />
-        </state>
+        <state line="14" column="19" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="1445" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/specs.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="24" selection-start="2288" selection-end="2288" vertical-scroll-proportion="0.0" vertical-offset="568" max-vertical-offset="1292">
-          <folding />
-        </state>
+        <state line="60" column="24" selection-start="2288" selection-end="2288" vertical-scroll-proportion="0.0" vertical-offset="568" max-vertical-offset="1292" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_css/specs.css">
@@ -364,11 +379,6 @@
         <state line="3" column="0" selection-start="77" selection-end="77" vertical-scroll-proportion="0.083606556" vertical-offset="0" max-vertical-offset="610" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/multimidia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="108" selection-start="1322" selection-end="1322" vertical-scroll-proportion="-14.115385" vertical-offset="126" max-vertical-offset="1020" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fale-conosco.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="67" column="59" selection-start="1997" selection-end="1997" vertical-scroll-proportion="0.5831874" vertical-offset="806" max-vertical-offset="1394" />
@@ -381,7 +391,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/google-glass.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="9" selection-start="477" selection-end="477" vertical-scroll-proportion="0.17688267" vertical-offset="239" max-vertical-offset="1445">
+        <state line="20" column="9" selection-start="477" selection-end="477" vertical-scroll-proportion="0.17688267" vertical-offset="239" max-vertical-offset="1445" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/specs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="0" selection-start="2700" selection-end="3004" vertical-scroll-proportion="-40.807693" vertical-offset="231" max-vertical-offset="1394" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="211" column="20" selection-start="3973" selection-end="3973" vertical-scroll-proportion="0.30327868" vertical-offset="3402" max-vertical-offset="4029">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_css/fotos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="17" selection-start="231" selection-end="231" vertical-scroll-proportion="0.11147541" vertical-offset="204" max-vertical-offset="1819">
           <folding />
         </state>
       </provider>
@@ -393,30 +420,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/specs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="0" selection-start="2700" selection-end="3004" vertical-scroll-proportion="-40.807693" vertical-offset="231" max-vertical-offset="1394">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_css/estilo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="211" column="20" selection-start="3973" selection-end="3973" vertical-scroll-proportion="0.30327868" vertical-offset="3402" max-vertical-offset="4029">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/fotos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="47" selection-start="212" selection-end="212" vertical-scroll-proportion="16.115385" vertical-offset="521" max-vertical-offset="1411">
+        <state line="59" column="0" selection-start="2456" selection-end="2766" vertical-scroll-proportion="-11.269231" vertical-offset="710" max-vertical-offset="1326">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_css/fotos.css">
+    <entry file="file://$PROJECT_DIR$/_css/media.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="1" selection-start="632" selection-end="632" vertical-scroll-proportion="0.6409836" vertical-offset="204" max-vertical-offset="1819">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="610">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multimidia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="41" selection-start="2370" selection-end="2370" vertical-scroll-proportion="0.8809107" vertical-offset="687" max-vertical-offset="1360">
           <folding />
         </state>
       </provider>
