@@ -26,34 +26,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="24" selection-start="4438" selection-end="4451" vertical-scroll-proportion="-15.692307" vertical-offset="1122" max-vertical-offset="1989">
+            <state line="70" column="38" selection-start="3038" selection-end="3395" vertical-scroll-proportion="-6.923077" vertical-offset="1010" max-vertical-offset="1989">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="media.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_css/media.css">
+      <file leaf-file-name="fale-conosco.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fale-conosco.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="14" selection-start="348" selection-end="348" vertical-scroll-proportion="0.3590164" vertical-offset="121" max-vertical-offset="765">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="estilo.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_css/estilo.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="127" column="14" selection-start="2344" selection-end="2344" vertical-scroll-proportion="0.0" vertical-offset="1991" max-vertical-offset="4029">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multimidia.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/multimidia.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="22" selection-start="1925" selection-end="1925" vertical-scroll-proportion="-6.8461537" vertical-offset="672" max-vertical-offset="1292">
+            <state line="62" column="109" selection-start="2936" selection-end="2936" vertical-scroll-proportion="0.55341506" vertical-offset="738" max-vertical-offset="1717">
               <folding />
             </state>
           </provider>
@@ -73,7 +55,6 @@
         <option value="$PROJECT_DIR$/testejs02.html" />
         <option value="$PROJECT_DIR$/testejs03.html" />
         <option value="$PROJECT_DIR$/_javascript/funcoes.js" />
-        <option value="$PROJECT_DIR$/fale-conosco.html" />
         <option value="$PROJECT_DIR$/_css/estilo.css" />
         <option value="$PROJECT_DIR$/google-glass.html" />
         <option value="$PROJECT_DIR$/_css/specs.css" />
@@ -83,6 +64,7 @@
         <option value="$PROJECT_DIR$/multimidia.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_css/media.css" />
+        <option value="$PROJECT_DIR$/fale-conosco.html" />
       </list>
     </option>
   </component>
@@ -389,11 +371,6 @@
         <state line="3" column="0" selection-start="77" selection-end="77" vertical-scroll-proportion="0.083606556" vertical-offset="0" max-vertical-offset="610" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fale-conosco.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="59" selection-start="1997" selection-end="1997" vertical-scroll-proportion="0.5831874" vertical-offset="806" max-vertical-offset="1394" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_css/specs.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="18" selection-start="93" selection-end="93" vertical-scroll-proportion="0.13934426" vertical-offset="0" max-vertical-offset="610" />
@@ -423,23 +400,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/multimidia.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="22" selection-start="1925" selection-end="1925" vertical-scroll-proportion="-6.8461537" vertical-offset="672" max-vertical-offset="1292">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_css/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="14" selection-start="2344" selection-end="2344" vertical-scroll-proportion="0.0" vertical-offset="1991" max-vertical-offset="4029">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="24" selection-start="4438" selection-end="4451" vertical-scroll-proportion="-15.692307" vertical-offset="1122" max-vertical-offset="1989">
+        <state line="127" column="14" selection-start="2344" selection-end="2344" vertical-scroll-proportion="0.27540985" vertical-offset="1991" max-vertical-offset="4029">
           <folding />
         </state>
       </provider>
@@ -447,6 +410,27 @@
     <entry file="file://$PROJECT_DIR$/_css/media.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="14" selection-start="348" selection-end="348" vertical-scroll-proportion="0.3590164" vertical-offset="121" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="38" selection-start="3038" selection-end="3395" vertical-scroll-proportion="-6.923077" vertical-offset="1010" max-vertical-offset="1989">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multimidia.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="13" selection-start="1474" selection-end="1767" vertical-scroll-proportion="0.08931699" vertical-offset="714" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fale-conosco.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="109" selection-start="2936" selection-end="2936" vertical-scroll-proportion="0.55341506" vertical-offset="738" max-vertical-offset="1717">
           <folding />
         </state>
       </provider>
